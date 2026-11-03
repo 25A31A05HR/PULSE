@@ -39,7 +39,7 @@ PULSE explores how algorithmic efficiency and geographical intelligence can supp
 
 | Category | Details |
 |---|---|
-| Developer | **Surimalla Venkata Tejaswi** |
+| Developer | **Dodda Naga Ramlal** |
 | Project Name | PULSE |
 | Project Domain | GIS & Emergency Dispatch |
 | Core Data Structure | Self-Balancing AVL Tree |
