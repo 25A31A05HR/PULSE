@@ -381,7 +381,7 @@ Third-party technologies and geographical data remain subject to their respectiv
 | Category | Details |
 |---|---|
 | Project | PULSE |
-| Developer | Susmitha Bandela |
+| Developer | Dodda Naga Ramlal |
 | Year | 2026 |
 | Domain | GIS & Emergency Dispatch |
 | Core Language | C++ |
@@ -395,7 +395,7 @@ Third-party technologies and geographical data remain subject to their respectiv
 </p>
 
 <p align="center">
-  Developed with dedication by <strong>Susmitha Bandela</strong>
+  Developed with dedication by <strong>Dodda Naga Ramlal</strong>
 </p>
 
 <p align="center">
